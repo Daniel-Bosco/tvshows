@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  number: 1
+  begins_at: 2021-04-18 15:18:38
+  series: one
+
+two:
+  number: 1
+  begins_at: 2021-04-18 15:18:38
+  series: two
